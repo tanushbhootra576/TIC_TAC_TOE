@@ -1,7 +1,7 @@
 
 # 🎮 Tic Tac Toe Game
 
-A simple, interactive Tic Tac Toe game built using React VITE , JavaScript and CSS. Play with a friend on the same device and enjoy the classic 3x3 grid game!
+A simple, interactive Tic Tac Toe game built using React , JavaScript and CSS. Play with a friend on the same device and enjoy the classic 3x3 grid game!
 
 ## 🧩 How It Works
 
